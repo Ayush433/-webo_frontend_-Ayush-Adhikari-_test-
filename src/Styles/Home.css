@@ -1,0 +1,58 @@
+.container p {
+  position: absolute;
+  bottom: 280px;
+  font-weight: 600;
+  margin-left: 90px;
+}
+
+.container h1 {
+  position: absolute;
+  bottom: 350px;
+  margin-left: 150px;
+  left: 10px;
+  font-size: 50px;
+  background-color: none;
+  font-weight: 800;
+  color: black;
+}
+.container {
+  font-size: 100%;
+  color: black;
+}
+.btn {
+  text-decoration: none;
+  border: none;
+  outline: none;
+  font-weight: 500;
+  border-radius: 30px;
+  font-size: 22px;
+  padding: 10px 25px;
+  position: absolute;
+  margin-bottom: 150px;
+}
+.btn-smart {
+  background: #a0d2eb;
+  margin-top: 520px;
+  margin-left: 50px;
+  color: black;
+}
+.bannera {
+  width: 100%;
+}
+.ctn {
+  text-decoration: none;
+  border: none;
+  outline: none;
+  font-weight: 600;
+  border-radius: 30px;
+  font-size: 22px;
+  padding: 10px 10px;
+  position: absolute;
+  margin-left: 300px;
+}
+.icon {
+  position: absolute;
+  margin-top: 600px;
+  margin-left: 200px;
+  color: azure;
+}

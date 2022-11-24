@@ -1,0 +1,27 @@
+.Head {
+  background-color: blue;
+}
+.header {
+  position: absolute;
+  font-size: 20px;
+  color: aliceblue;
+}
+.style {
+  position: absolute;
+  padding: 20px;
+  margin-left: 380px;
+}
+.header .name {
+  color: black;
+  font-weight: 700;
+  position: absolute;
+}
+.style Button {
+  margin-left: 0px;
+  width: 150px;
+  color: black;
+  font-weight: 800;
+}
+.me-auto {
+  margin-left: 300px;
+}

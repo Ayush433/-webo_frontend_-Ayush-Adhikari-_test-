@@ -1,0 +1,85 @@
+.features {
+  background: #a0d2eb;
+  width: 100%;
+  padding: 10px;
+}
+
+.features .title h1 {
+  color: black;
+  font-size: 40px;
+  width: 800px;
+  margin-top: 20px;
+  margin-left: 100px;
+  font-weight: 600;
+}
+.title {
+  margin-top: 70px;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+.cards {
+  height: 280px;
+  width: 350px;
+  padding: 20px 35px;
+  background: whitesmoke;
+  border-radius: 20px;
+  margin: 10px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  margin-top: 30px;
+}
+.cards p {
+  margin-top: 20px;
+  font-size: 15px;
+}
+.cards h5 {
+  font-weight: 600;
+}
+.card-1 {
+  height: 130px;
+  width: 300px;
+  padding: 20px 35px;
+  background: whitesmoke;
+  border-radius: 20px;
+  margin: 10px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  margin-bottom: 150px;
+  margin-left: 100px;
+}
+.card-2 {
+  height: 130px;
+  width: 300px;
+  padding: 20px 35px;
+  background: whitesmoke;
+  border-radius: 20px;
+  margin: 10px;
+  position: absolute;
+  overflow: hidden;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 850px;
+}
+
+.cards h5 {
+  color: black;
+  font-size: 23px;
+  margin-top: 20px;
+}
+.title p {
+  margin-left: 100px;
+  font-weight: 600;
+}
+.title span {
+  font-size: 40px;
+  width: 600px;
+  margin-left: 100px;
+  margin-bottom: 200px;
+  font-weight: 900;
+}

@@ -1,0 +1,78 @@
+.testimonial {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  min-height: 50vh;
+  width: 100%;
+  background-color: #51e2f5;
+  overflow: hidden;
+}
+.heading {
+  display: inline-block;
+  position: relative;
+  color: black;
+  font-size: 50px;
+  padding: 20px;
+  width: 100%;
+  margin-left: 40px;
+
+  font-weight: 700;
+}
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: 60px;
+}
+.wrapper .container {
+  position: relative;
+  width: 350px;
+  color: #fff;
+  background: #222;
+  margin: 40px 10px;
+  padding: 30px 20px;
+  border-radius: 3px;
+  transition: 0.3s ease;
+}
+.profile {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -35%;
+  width: 100%;
+  display: block;
+}
+.imgBox {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  margin: auto;
+
+  border: 8px solid #070c0d;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.imgBox img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  transition: 0.3s ease;
+  object-fit: cover;
+}
+
+.container h20 {
+  margin-top: 50px;
+  color: #fff;
+  padding: 0 8px;
+  font-size: 15px;
+  opacity: 0.8px;
+}
+.container h20 FormatQuoteIcon {
+  font-size: 20px;
+  color: blue;
+}
